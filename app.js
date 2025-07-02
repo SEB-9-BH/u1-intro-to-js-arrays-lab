@@ -65,8 +65,11 @@ nums.forEach(num => {
         fizz.push(num);
     if (num%5 === 0)
         buzz.push(num);
-    else (num%3 && num%5 ===0)
+    if (num%3 ===0 && num%5 ===0)
         fizzbuzz.push(num);
+    else{
+        return 0;
+    }
 })
 
 
