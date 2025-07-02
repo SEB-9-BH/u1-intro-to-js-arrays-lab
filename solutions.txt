@@ -1,0 +1,26 @@
+$ node app.js
+Exercise 1 result: []
+Exercise 2 result: [ 'pizza', 'cheeseburger' ]
+Exercise 3 result: [ 'taco', 'pizza', 'cheeseburger' ]
+Exercise 4 result: pizza
+Exercise 5 result: [ 'taco', 'pizza', 'tofu', 'cheeseburger' ]
+Exercise 6 result: [ 'taco', 'sushi', 'cupcake', 'tofu', 'cheeseburger' ]
+Exercise 7 result: [ 'sushi', 'cupcake' ]
+Exercise 8 result: 3
+Exercise 9 result: taco -> sushi -> cupcake -> tofu -> cheeseburger
+Exercise 10 result: false
+Exercise 11 result: [
+  5, 23, 15, 21,
+  9, 45,  7, 81
+]
+Exercise 12 Results:
+  fizz: [
+  15, 21, 72,  9,
+  45, 66, 81, 90
+]
+  buzz: [ 100, 5, 15, 45, 90 ]
+  fizzbuzz: [ 15, 45, 90 ]
+Exercise 13 result: [ 7, 81, 90 ]
+Exercise 14 result: 66
+Exercise 15 result:
+ 534
